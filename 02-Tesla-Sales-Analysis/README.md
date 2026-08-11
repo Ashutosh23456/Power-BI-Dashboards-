@@ -6,8 +6,8 @@ An interactive Power BI dashboard designed to analyze Tesla vehicle
 sales performance across different models, states, colors, customer
 demographics, sales channels, and years.
 
-The dashboard provides a high-level view of sales volume and revenue
-while allowing comparison across different business dimensions.
+The dashboard provides a comprehensive view of sales volume and revenue
+while enabling comparison across multiple business dimensions.
 
 ---
 
@@ -24,7 +24,7 @@ while allowing comparison across different business dimensions.
 
 ## 📈 Dashboard Preview
 
-![Tesla Sales Analytics Dashboard](Tesla%20Sales%20Dashboard.png)
+![Tesla Sales Analytics Dashboard](Tesla%20Sales%20Dashboard.png.png)
 
 ---
 
@@ -42,8 +42,7 @@ while allowing comparison across different business dimensions.
 
 ### 🚗 Sales by Tesla Model
 
-The dashboard compares sales performance across different Tesla
-models, including:
+The dashboard analyzes sales performance across different Tesla models:
 
 - Model 3
 - Model Y
@@ -51,11 +50,12 @@ models, including:
 - Model S
 - Cybertruck
 
-Model-level sales are further broken down by vehicle color.
+The model-wise analysis also provides a breakdown of units sold by
+vehicle color.
 
 ### 🌎 State-wise Sales
 
-Sales are compared across major states, including:
+Sales performance is compared across major states, including:
 
 - Washington
 - Illinois
@@ -68,7 +68,7 @@ This provides insight into the geographic distribution of Tesla sales.
 
 ### 🎨 Sales by Color & Model
 
-The dashboard analyzes units sold across different vehicle colors:
+Units sold are analyzed across different vehicle colors:
 
 - Black
 - Blue
@@ -76,48 +76,48 @@ The dashboard analyzes units sold across different vehicle colors:
 - Silver
 - White
 
-This analysis provides a detailed comparison of color preferences
-across Tesla models.
+This allows comparison of color preferences across Tesla models.
 
-### 👥 Customer Demographics
+### 👥 Sales by Age Group
 
-Sales are analyzed across different age groups to identify
-differences in purchasing patterns among customers.
+The dashboard analyzes vehicle sales across different customer age
+groups to identify differences in purchasing patterns.
 
 ### ⚧️ Gender Analysis
 
-The dashboard provides a breakdown of sales by gender to understand
-the distribution of customers across the dataset.
+Sales are segmented by gender to understand the distribution of
+customers within the dataset.
 
-### 🛒 Sales Mode
+### 🛒 Sales Mode Analysis
 
-Sales are categorized by different sales channels:
+Sales are categorized across different sales channels:
 
 - Online
 - In-store
 - Third-party
 
-This helps compare the contribution of different sales channels.
+This helps evaluate the contribution of different sales channels.
 
-### 💰 Revenue Analysis
+### 💰 Revenue by Year
 
 Revenue is analyzed across multiple years to identify changes in
-overall sales performance and revenue trends.
+Tesla sales performance and overall revenue trends.
 
 ---
 
 ## 📊 Dashboard Features
 
 - KPI cards for key sales metrics
-- Interactive visualizations
+- State-wise sales analysis
 - Model-wise sales analysis
-- State-wise sales comparison
-- Color and model analysis
+- Color-wise sales analysis
 - Age-group analysis
 - Gender analysis
-- Sales-channel analysis
+- Sales-mode analysis
 - Year-wise revenue analysis
-- Interactive filters and navigation
+- Interactive filters
+- Interactive Power BI visualizations
+- Business-focused dashboard design
 
 ---
 
@@ -127,6 +127,7 @@ overall sales performance and revenue trends.
 - Data Modeling
 - DAX Measures
 - KPI Development
+- Power Query
 - Interactive Dashboard Design
 - Data Visualization
 - Exploratory Data Analysis
@@ -141,4 +142,4 @@ overall sales performance and revenue trends.
 02-Tesla-Sales-Analysis/
 │
 ├── README.md
-└── Tesla Sales Dashboard.png
+└── Tesla Sales Dashboard.png.png
