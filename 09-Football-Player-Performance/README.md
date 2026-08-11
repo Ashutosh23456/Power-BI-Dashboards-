@@ -25,7 +25,7 @@ runs, penalty performance, and disciplinary records.
 
 ## 📈 Dashboard Preview
 
-<img src="./Football%20Analytics%20Dashboard%20Pic.png" alt="Global Football Player Performance Dashboard" width="100%">
+![Global Football Player Performance Dashboard](./Football%20Analytics%20Dashboard%20Pic.png)
 
 ---
 
@@ -45,11 +45,11 @@ runs, penalty performance, and disciplinary records.
 
 ### ⚽ Goals & Assists
 
-The dashboard analyzes attacking performance using:
+The dashboard compares player attacking performance using:
 
-- Goals scored
+- Goals Scored
 - Assists
-- Goals + Assists per 90 minutes
+- Goals + Assists per 90 Minutes
 
 This allows comparison of attacking contributions across top
 performing players.
@@ -58,8 +58,8 @@ performing players.
 
 Disciplinary performance is analyzed across teams using:
 
-- Red cards
-- Yellow cards
+- Red Cards
+- Yellow Cards
 
 This helps identify differences in disciplinary records between teams.
 
@@ -67,8 +67,8 @@ This helps identify differences in disciplinary records between teams.
 
 Penalty performance is analyzed using:
 
-- Average penalties scored
-- Average penalty attempts
+- Average Penalties Scored
+- Average Penalty Attempts
 
 This provides insight into player-level penalty performance.
 
@@ -81,9 +81,9 @@ countries, providing a geographic view of football activity.
 
 Team-level performance is analyzed using:
 
-- Progressive carries
-- Progressive passes
-- Progressive runs
+- Progressive Carries
+- Progressive Passes
+- Progressive Runs
 
 These metrics help evaluate ball progression and attacking movement
 across teams.
@@ -91,7 +91,7 @@ across teams.
 ### ⏱️ Minutes Played & Full 90s Equivalent
 
 The dashboard analyzes total minutes played across countries and
-provides a full 90s equivalent comparison.
+provides a Full 90s Equivalent comparison.
 
 This helps understand player participation and playing-time
 distribution.
