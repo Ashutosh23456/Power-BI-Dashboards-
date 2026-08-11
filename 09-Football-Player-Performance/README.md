@@ -25,7 +25,7 @@ runs, penalty performance, and disciplinary records.
 
 ## 📈 Dashboard Preview
 
-![Global Football Player Performance Dashboard](./Football%20Analytics%20Dashboard%20Pic.png)
+![Global Football Player Performance Dashboard](Global%20Football%20Player%20Performance%20Dashboard.png)
 
 ---
 
@@ -162,4 +162,4 @@ teams, competitions, and countries.
 09-Football-Player-Performance/
 │
 ├── README.md
-└── Football Analytics Dashboard Pic.png
+└── Global Football Player Performance Dashboard.png
