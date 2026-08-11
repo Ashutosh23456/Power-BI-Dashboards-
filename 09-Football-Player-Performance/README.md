@@ -25,7 +25,7 @@ runs, penalty performance, and disciplinary records.
 
 ## 📈 Dashboard Preview
 
-![Global Football Player Performance Dashboard](Football%20Analytics%20Dashboard%20Pic.png)
+<img src="./Football%20Analytics%20Dashboard%20Pic.png" alt="Global Football Player Performance Dashboard" width="100%">
 
 ---
 
@@ -45,7 +45,7 @@ runs, penalty performance, and disciplinary records.
 
 ### ⚽ Goals & Assists
 
-The dashboard compares player attacking performance using:
+The dashboard analyzes attacking performance using:
 
 - Goals scored
 - Assists
@@ -70,7 +70,7 @@ Penalty performance is analyzed using:
 - Average penalties scored
 - Average penalty attempts
 
-This provides insight into penalty performance at the player level.
+This provides insight into player-level penalty performance.
 
 ### 🌍 Matches Played by Country
 
