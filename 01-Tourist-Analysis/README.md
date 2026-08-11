@@ -29,11 +29,11 @@ The dashboard consists of three interactive pages:
 
 ### Main Dashboard
 
-![Tourist Analysis Main Dashboard](main-dashboard.png)
+![Tourist Analysis Main Dashboard](main dashboard.png)
 
 ### Analysis Dashboard
 
-![Tourist Analysis Analysis Dashboard](analysis-dashboard.png)
+![Tourist Analysis Analysis Dashboard](analysis dashboard.png)
 
 ## 📌 Key Metrics
 
